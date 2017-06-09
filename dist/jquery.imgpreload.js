@@ -1,5 +1,5 @@
 /**
-* jquery.imgpreload 1.6.2 <https://github.com/farinspace/jquery.imgpreload>
+* jquery.imgpreload 2.0.0 <https://github.com/farinspace/jquery.imgpreload>
 * Copyright 2009-2017 Dimas Begunoff <http://farinspace.com>
 * License MIT <http://opensource.org/licenses/MIT>
 */

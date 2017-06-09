@@ -9,6 +9,11 @@
         }
     ],
     "homepage": "https://github.com/farinspace/jquery.imgpreload",
+    "author": {
+        "name": "Dimas Begunoff",
+        "email": "dbegunoff@gmail.com",
+        "url": "http://farinspace.com"
+    },
     "repository": {
         "type": "git",
         "url": "https://github.com/farinspace/jquery.imgpreload.git"
